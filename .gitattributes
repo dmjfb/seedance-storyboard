@@ -1,0 +1,2 @@
+# Preserve the embedded prompt byte-for-byte, including original line endings.
+references/*.txt -text

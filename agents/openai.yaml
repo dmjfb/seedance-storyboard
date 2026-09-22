@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说转视频分镜提示词"
+  short_description: "先分析小说全文与角色场景物品素材，再逐段生成可连续修改的分镜提示词"
+  default_prompt: "使用 $seedance-storyboard，先分析我提供的小说全文和场景、角色、物品素材库，等我逐段发送文案后再生成分镜提示词。"
